@@ -4,10 +4,11 @@
 # 💻 Tech Stack:
 <p align="">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,nodejs,express,mongodb,telegraf,docker" 
+    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,nodejs,express,mongodb,docker" 
  height="42"/>
   </a>
 </p>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AliRezaAsadii&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AliRezaAsadii&theme=tokyonight&hide_border=false)<br/>
