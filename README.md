@@ -4,7 +4,7 @@
 # 💻 Tech Stack:
 <p align="">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,nodejs,express,mongodb,ejs,docker" 
+    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,nodejs,express,mongodb,docker" 
  height="42"/>
   </a>
 </p>
