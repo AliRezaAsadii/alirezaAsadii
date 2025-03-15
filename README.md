@@ -5,8 +5,8 @@
 <p align="">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,nodejs,express,mongodb,docker" 
-      <br>
-    <img src="https://skillicons.dev/icons?i=python,pandas,numpy" 
+    <br>
+    <img src="https://skillicons.dev/icons?i=python" 
  height="42"/>
   </a>
 </p>
