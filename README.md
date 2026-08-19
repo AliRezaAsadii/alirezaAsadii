@@ -27,11 +27,7 @@
   <img src="https://skillicons.dev/icons?i=docker,nginx" />
 </p>
 
-### 🟧 AI / LLM
-<p>
-  <img src="https://img.shields.io/badge/LangChain.js-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI%20Agents%20SDK-412991?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AliRezaAsadii&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
