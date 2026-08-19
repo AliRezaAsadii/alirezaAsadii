@@ -28,9 +28,9 @@
 </p>
 
 ### 🟧 AI / LLM
-
 <p>
-  <img src="https://skillicons.dev/icons?i=langchain,openai" />
+  <img src="https://img.shields.io/badge/LangChain.js-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI%20Agents%20SDK-412991?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 # 📊 GitHub Stats:
