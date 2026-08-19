@@ -1,14 +1,36 @@
 # 💫 About Me:
-🔭 I’m currently working on NodeJsBlog & MB<br><br>🌱 I’m currently learning nodejs , expressjs<br><br>📫 How to reach me 0alirezasadi0@gmail.com
+🔭 I’m currently working on Khoodro24<br><br>🌱 I’m currently learning LangChain.js<br><br>📫 How to reach me 0alirezasadi0@gmail.com
 
 # 💻 Tech Stack:
-<p align="">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,nodejs,express,mongodb,docker" 
-    <br>
-    <img src="https://skillicons.dev/icons?i=python" 
- height="42"/>
-  </a>
+
+### 🟦 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react" />
+</p>
+
+### 🟩 Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+</p>
+
+### 🟨 Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" />
+</p>
+
+### 🟪 DevOps / Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,nginx" />
+</p>
+
+### 🟧 AI / LLM
+
+<p>
+  <img src="https://skillicons.dev/icons?i=langchain,openai" />
 </p>
 
 # 📊 GitHub Stats:
